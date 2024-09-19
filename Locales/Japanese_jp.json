@@ -219,7 +219,7 @@
 	"A white colored Hall is neutral. It belongs to the people of this land. Capture it by standing inside of it.":
 	"白色の拠点は中立の砦。\nこの地の人々のもの。\n中に居すわる事で制圧可能。",//line issue
 	"Hold $KEY_E$ and press $CLASSCHANGE$\n\nto change class to BUILDER\n\n\n$RESEARCH$\n\n\nPress this button to view your teams research tree.\n\nThe whole team can vote here on what technology they want. Not all techs can be achieved, decide wisely!":
-	"$KEY_E$を長押ししながら\n\n$CLASSCHANGE$を選択し\n\nビルダーにクラスを変更しよう\n\n\n$RESEARCH$\n\n\nこのボタンを押すと\bチームの研究ツリーを見れる。\n\n欲しい技術をチームで\b投票する事が出来る。\b全ての技術を研究するわけでは無いので、\b賢く選ぼう!",//line issue
+	"$KEY_E$を長押ししながら\n\n$CLASSCHANGE$を選択し\n\nビルダーにクラスを変更しよう\n\n\n$RESEARCH$\n\n\nこのボタンを押すと\nチームの研究ツリーを見れる。\n\n欲しい技術をチームで\n投票する事が出来る。\n全ての技術を研究するわけでは無いので、\n賢く選ぼう!",//line issue
 	"$crate$\n\nPress $KEY_E$ on the crate\n\n(if it has dropped from the sky) to get supply materials!":
 	"$crate$\n\n$KEY_E$を箱の近くで押して\n\n(空から降ってきたものだった場合) 補給の建材を手に入れよう!",
 	"If you've switched to builder in the Hall now you can build workshops for your team.\n\nWorkshops are basically factories which make ammo & weapons automatically for you.\n\nGo to an empty spot.\n\nHold $KEY_F$ and select $building$.":
